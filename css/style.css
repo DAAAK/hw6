@@ -1,0 +1,24 @@
+* {
+  font-family: "Calibri";
+}
+
+
+.table-container {
+  margin: 0 auto; 
+  text-align: center;
+  width: fit-content; 
+}
+
+
+#output {
+  text-align: center;
+}
+
+
+.centered {
+  text-align: center;
+}
+
+.blue-background {
+  background-color: rgb(140, 163, 196);
+}
